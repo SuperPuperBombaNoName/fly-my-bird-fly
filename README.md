@@ -29,8 +29,3 @@
 
 ## 🚀 Установка и запуск
 
-### 1. Клонирование репозитория
-
-```bash
-git clone https://github.com/yourusername/flappy-bird.git
-cd flappy-bird
